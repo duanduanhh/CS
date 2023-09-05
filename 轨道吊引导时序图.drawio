@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T12:19:05.035Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lJOsU7s3ZOXcGQLaE22s" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T12:22:59.572Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MKFJANRvJ-N8x3bRw08F" version="21.7.2" type="github">
   <diagram name="第 1 页" id="rWcn3jzGD6OSILU7geMx">
     <mxGraphModel dx="1434" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,26 +13,26 @@
         <mxCell id="14LxOmGrXxbErLR7jHpw-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="154" as="sourcePoint" />
-            <mxPoint x="240" y="971" as="targetPoint" />
+            <mxPoint x="240" y="915" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="692" y="154" as="sourcePoint" />
-            <mxPoint x="692" y="968" as="targetPoint" />
+            <mxPoint x="692" y="914" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="267" as="sourcePoint" />
-            <mxPoint x="692" y="267" as="targetPoint" />
+            <mxPoint x="240" y="238" as="sourcePoint" />
+            <mxPoint x="692" y="238" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-6" value="车辆到位后&lt;br&gt;主动请求引导" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="97" y="215" width="150" height="20" as="geometry" />
+          <mxGeometry x="97" y="228" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-7" value="请求引导接口（status = 1）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="294.5" y="243" width="331.5" height="20" as="geometry" />
+          <mxGeometry x="294.5" y="214" width="331.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -41,70 +41,70 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-11" value="引导对位指令（已到位，in_position=1, offset = 0）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="307" width="406" height="20" as="geometry" />
+          <mxGeometry x="260" y="278" width="406" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="691" y="391" as="sourcePoint" />
-            <mxPoint x="241" y="391" as="targetPoint" />
+            <mxPoint x="691" y="362" as="sourcePoint" />
+            <mxPoint x="241" y="362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-13" value="引导对位指令（需要对位，in_position=2, offset = 引导值）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="243" y="365" width="449" height="20" as="geometry" />
+          <mxGeometry x="243" y="336" width="449" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="692" y="322" width="20" height="76" as="geometry" />
+          <mxGeometry x="692" y="293" width="20" height="76" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-15" value="两种情况：&lt;br&gt;1. 已到位&lt;br&gt;2. 需要对位" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="719" y="333.5" width="109" height="53" as="geometry" />
+          <mxGeometry x="719" y="304.5" width="109" height="53" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="241.5" y="458" as="sourcePoint" />
-            <mxPoint x="692" y="458" as="targetPoint" />
+            <mxPoint x="241.5" y="429" as="sourcePoint" />
+            <mxPoint x="692" y="429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="693.5" y="525" as="sourcePoint" />
-            <mxPoint x="241.5" y="525" as="targetPoint" />
+            <mxPoint x="693.5" y="496" as="sourcePoint" />
+            <mxPoint x="241.5" y="496" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-19" value="引导对位指令（已到位，trans_id=FMS trans id，in_position=1, offset = 0）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="261.5" y="498" width="406" height="20" as="geometry" />
+          <mxGeometry x="261.5" y="469" width="406" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="692.5" y="582" as="sourcePoint" />
-            <mxPoint x="242.5" y="582" as="targetPoint" />
+            <mxPoint x="692.5" y="553" as="sourcePoint" />
+            <mxPoint x="242.5" y="553" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-21" value="引导对位指令（需要对位，trans_id=FMS trans id，in_position=2, offset = 引导值）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="244.5" y="556" width="449" height="20" as="geometry" />
+          <mxGeometry x="244.5" y="527" width="449" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="216" y="443" width="20" height="165" as="geometry" />
+          <mxGeometry x="216" y="414" width="20" height="165" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="693.5" y="516" width="20" height="76" as="geometry" />
+          <mxGeometry x="693.5" y="487" width="20" height="76" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-24" value="两种情况：&lt;br&gt;1. 已到位&lt;br&gt;2. 需要对位" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720.5" y="527.5" width="109" height="53" as="geometry" />
+          <mxGeometry x="720.5" y="498.5" width="109" height="53" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-25" value="若车辆未到位&lt;br&gt;则再次发送请求引导&lt;br&gt;循环对位流程" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="97" y="507.5" width="150" height="20" as="geometry" />
+          <mxGeometry x="97" y="478.5" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="241.5" y="667" as="sourcePoint" />
-            <mxPoint x="692" y="667" as="targetPoint" />
+            <mxPoint x="241.5" y="638" as="sourcePoint" />
+            <mxPoint x="692" y="638" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-27" value="请求引导接口（车辆已到位, trans_id= 新产生，status = 2）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="296" y="643" width="331.5" height="20" as="geometry" />
+          <mxGeometry x="296" y="614" width="331.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-33" value="对位完成后封锁作业区域，block_transfer_area = 2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="331.5" y="710" width="275" height="20" as="geometry" />
+          <mxGeometry x="331.5" y="681" width="275" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-36" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -114,27 +114,27 @@
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-38" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="34" y="779" as="sourcePoint" />
-            <mxPoint x="838" y="774" as="targetPoint" />
+            <mxPoint x="34" y="750" as="sourcePoint" />
+            <mxPoint x="838" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="692.5" y="738.5" as="sourcePoint" />
-            <mxPoint x="243" y="739" as="targetPoint" />
+            <mxPoint x="692.5" y="709.5" as="sourcePoint" />
+            <mxPoint x="243" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-40" value="作业完成后可驶离，agv_job = 1，block_transfer_area = 1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="298.38" y="807" width="338.25" height="20" as="geometry" />
+          <mxGeometry x="298.38" y="778" width="338.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="689.25" y="834.5" as="sourcePoint" />
-            <mxPoint x="239.75" y="835" as="targetPoint" />
+            <mxPoint x="689.25" y="805.5" as="sourcePoint" />
+            <mxPoint x="239.75" y="806" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-42" value="请求引导接口（status = 1）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="294.5" y="432" width="331.5" height="20" as="geometry" />
+          <mxGeometry x="294.5" y="403" width="331.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
