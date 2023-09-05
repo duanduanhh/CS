@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T12:23:52.850Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="LeItC1pRmD59fBWNJs4S" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T12:27:59.511Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="uUWQ7mRTlDscyd8PZ07Z" version="21.7.2" type="github">
   <diagram name="第 1 页" id="rWcn3jzGD6OSILU7geMx">
     <mxGraphModel dx="1434" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
             <mxPoint x="241.5" y="496" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="14LxOmGrXxbErLR7jHpw-19" value="引导对位指令（已到位，trans_id=FMS trans id，in_position=1, offset = 0）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="14LxOmGrXxbErLR7jHpw-19" value="引导对位指令（已到位，in_position=1, offset = 0）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="261.5" y="469" width="406" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -79,7 +79,7 @@
             <mxPoint x="242.5" y="553" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="14LxOmGrXxbErLR7jHpw-21" value="引导对位指令（需要对位，trans_id=FMS trans id，in_position=2, offset = 引导值）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="14LxOmGrXxbErLR7jHpw-21" value="引导对位指令（需要对位in_position=2, offset = 引导值）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="244.5" y="527" width="449" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
@@ -100,7 +100,7 @@
             <mxPoint x="692" y="638" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="14LxOmGrXxbErLR7jHpw-27" value="请求引导接口（车辆已到位, trans_id= 新产生，status = 2）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="14LxOmGrXxbErLR7jHpw-27" value="请求引导接口（车辆已到位，status = 2）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="296" y="614" width="331.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-33" value="对位完成后封锁作业区域，block_transfer_area = 2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
