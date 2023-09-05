@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T12:12:57.223Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="jZF2S8TI6eiHRu_9_6vm" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T12:19:38.429Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="DoSemyrBttj7Fa3nqbGU" version="21.7.2" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1366" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -108,12 +108,12 @@
         </mxCell>
         <mxCell id="2nViGCEAdRGkjLKJpimA-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="241.5" y="672" as="sourcePoint" />
-            <mxPoint x="692" y="672" as="targetPoint" />
+            <mxPoint x="241.5" y="649" as="sourcePoint" />
+            <mxPoint x="692" y="649" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2nViGCEAdRGkjLKJpimA-34" value="请求引导接口（车辆已到位, trans_id= 新产生，status = 2）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="296" y="648" width="331.5" height="20" as="geometry" />
+          <mxGeometry x="296" y="625" width="331.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2nViGCEAdRGkjLKJpimA-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
