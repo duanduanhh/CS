@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T12:15:51.230Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="UOylgpl_qqw652OSNiA2" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T12:19:05.035Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lJOsU7s3ZOXcGQLaE22s" version="21.7.2" type="github">
   <diagram name="第 1 页" id="rWcn3jzGD6OSILU7geMx">
     <mxGraphModel dx="1434" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,9 @@
             <mxPoint x="689.25" y="834.5" as="sourcePoint" />
             <mxPoint x="239.75" y="835" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="14LxOmGrXxbErLR7jHpw-42" value="请求引导接口（status = 1）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294.5" y="432" width="331.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
