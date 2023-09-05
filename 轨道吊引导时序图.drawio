@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T12:22:59.572Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MKFJANRvJ-N8x3bRw08F" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T12:23:52.850Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="LeItC1pRmD59fBWNJs4S" version="21.7.2" type="github">
   <diagram name="第 1 页" id="rWcn3jzGD6OSILU7geMx">
     <mxGraphModel dx="1434" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,8 +36,8 @@
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="692" y="334" as="sourcePoint" />
-            <mxPoint x="240" y="334" as="targetPoint" />
+            <mxPoint x="690.5" y="304.5" as="sourcePoint" />
+            <mxPoint x="238.5" y="304.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-11" value="引导对位指令（已到位，in_position=1, offset = 0）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-13" value="引导对位指令（需要对位，in_position=2, offset = 引导值）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="243" y="336" width="449" height="20" as="geometry" />
+          <mxGeometry x="251" y="337.5" width="449" height="20" as="geometry" />
         </mxCell>
         <mxCell id="14LxOmGrXxbErLR7jHpw-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="692" y="293" width="20" height="76" as="geometry" />
